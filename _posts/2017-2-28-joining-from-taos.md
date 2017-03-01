@@ -7,7 +7,7 @@ title: 2017-2-28-joining-from-taos
 
 ## Have begun building sterile hood hack
 
-Logging in from the far Northern New Mexico outpost. Excited to be part of this international group of biohackers. Thanks for sharing all of the knowledge Pieter and Biohack Academy, for making this community thrive! 
+Logging in from the Northern New Mexico outpost. Excited to be part of this international group of biohackers. Thanks for sharing all of the knowledge Pieter and Biohack Academy, for making this community thrive! 
 
 I have started a hacked/artsy version of the sterile hood using a Holmes air purifier that arrived last week and a wooden chair for the frame. Basically the idea is to create a sculptural vertical lab in a chair, so I will place the incubator above the seat. I will be creating a plastic enclosure on the underside of the chair, around the filter. 
 
