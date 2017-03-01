@@ -7,7 +7,11 @@ title: 2017-2-28-joining-from-taos
 
 ## Have begun building sterile hood hack
 
- I have started a hacked/artsy version of the sterile hood using a Holmes air purifier that arrived yesterday and a wooden chair for the frame. I have also ordered supplies for the incubator and found some old cameras at a thrift store in Taos.
+Logging in from the far Northern New Mexico outpost. Excited to be part of this international group of biohackers. Thanks for sharing all of the knowledge Pieter and Biohack Academy, for making this community thrive! 
+
+I have started a hacked/artsy version of the sterile hood using a Holmes air purifier that arrived last week and a wooden chair for the frame. I have also ordered supplies for the incubator and found some old cameras (for the compound microscope design) at a thrift store in Taos.
+
+Unfortunately the maker space in Taos is not up and fully running yet, so I am building my own hacks of the designs in the BHA4, with a jigsaw, a drill, a dremel, and hand tools.
 
 **bold**
 
