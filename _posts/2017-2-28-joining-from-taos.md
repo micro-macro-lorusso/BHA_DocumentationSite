@@ -15,6 +15,6 @@ Unfortunately the maker space in Taos is not up and fully running yet, so I am b
 
 **!**
 
-https://github.com/micro-macro-lorusso/under-chair-sterile-hood.git
+[link to under chair sterile hood hack] (https://github.com/micro-macro-lorusso/under-chair-sterile-hood.git)
 
 [link to google](www.google.com)
