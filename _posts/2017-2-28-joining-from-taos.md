@@ -13,9 +13,11 @@ I have started a hacked/artsy version of the sterile hood using a Holmes air pur
 
 Unfortunately the maker space in Taos is not up and fully running yet, so I am building my own hacks of the designs in the BHA4, with a jigsaw, a drill, a dremel, and hand tools.
 
+[link to under chair sterile hood hack] (https://github.com/micro-macro-lorusso/under-chair-sterile-hood.git)
+
 ![](https://raw.githubusercontent.com/micro-macro-lorusso/under-chair-sterile-hood/master/m-lorusso-sterile-hood-chair-process-1.jpg)
 **!**
 
-[link to under chair sterile hood hack] (https://github.com/micro-macro-lorusso/under-chair-sterile-hood.git)
 
-[link to google](www.google.com)
+
+
