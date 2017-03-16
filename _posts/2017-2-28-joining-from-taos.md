@@ -15,7 +15,7 @@ Unfortunately the maker space in Taos is not up and fully running yet, so I am b
 
 I have also ordered supplies for the incubator and found some old cameras (for the compound microscope design) at a thrift store in Taos.
 
-[link to under chair sterile hood hack repository] (https://github.com/micro-macro-lorusso/under-chair-sterile-hood.git)
+![link to under chair sterile hood hack repository] (https://github.com/micro-macro-lorusso/under-chair-sterile-hood.git)
 
 ![](https://raw.githubusercontent.com/micro-macro-lorusso/under-chair-sterile-hood/master/m-lorusso-sterile-hood-chair-process-1.jpg)
 **!**
