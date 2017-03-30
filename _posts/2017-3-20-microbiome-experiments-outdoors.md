@@ -11,4 +11,10 @@ Some results from my proposed experiment on the soil microbiome and the skin mic
 
 ![culture from chimayo](https://raw.githubusercontent.com/micro-macro-lorusso/soil-skin-microbiome-experiments/master/m-lorusso-chimayo-culture.JPG)
 
+Controls:
+
+![Left Arm](https://raw.githubusercontent.com/micro-macro-lorusso/soil-skin-microbiome-experiments/master/left-arm-m-lorusso.jpg)
+
+![Right Arm](https://raw.githubusercontent.com/micro-macro-lorusso/soil-skin-microbiome-experiments/master/right-arm-m-lorusso.jpg)
+
 ****
